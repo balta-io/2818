@@ -1,5 +1,7 @@
 # 2818 - Aplicando Orientação a Objetos em Projetos Reais com C# 11 e .NET 7
 
+https://user-images.githubusercontent.com/965305/207913832-17d4e71e-4c0b-4239-b0b3-0095dd83938b.mp4
+
 # Introdução
 
 Olá e seja bem vindo ao curso Aplicando Orientação a Objetos em Projetos Reais com C# 11 e .NET 7. Eu sou André Baltieri ou balta, 10x Microsoft MVP e vou te guiar por este curso.
